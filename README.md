@@ -1,1 +1,1 @@
-A personnal project that explores space-related calculations with different methods such as Euler and Verlet.
+A personnal project that explores space-related calculations using mathplotlib, with different methods such as Euler and Verlet. Several versions of this project have been uploaded. The project gets more complex every time the version's number increases.
